@@ -38,4 +38,16 @@ when I decrypt the data I get the following
 It tells us to send a post request to the link /api/invite/generate
 So we fire up cURL and send the request
 ```
-curl -X 
+curl -X POST https://www.hackthebox.eu/api/invite/generate
+```
+Here is the response
+
+![Response Screenshot](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-51-40.png)
+
+Decrypting the data part which is base64 encoded (can be determined by the = sign at the end) we get the invite code that is:
+```
+JQVEB-VLDVG-YOLSQ-YBSRF-LWXRA
+```
+![Congratulations](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_22-12-26.png)
+
+
