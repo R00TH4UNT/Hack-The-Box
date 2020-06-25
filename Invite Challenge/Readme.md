@@ -29,3 +29,8 @@ curl -X POST https://www.hackthebox.eu/api/invite/how/to/generate
 We get a response. Here is a screenshot of it.
 
 ![Screenshot of response](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-37-19.png)
+
+So I have a [ROT13](https://en.wikipedia.org/wiki/ROT13) encoded data. Please note that you may recieve data with different encryptions. Use suitable tools to decrypt the data. 
+when I decrypt the data I get the following
+
+![Screenshot of decrypted data](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-43-00.png)
