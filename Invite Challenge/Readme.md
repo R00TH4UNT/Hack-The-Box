@@ -34,3 +34,8 @@ So I have a [ROT13](https://en.wikipedia.org/wiki/ROT13) encoded data. Please no
 when I decrypt the data I get the following
 
 ![Screenshot of decrypted data](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-43-00.png)
+
+It tells us to send a post request to the link /api/invite/generate
+So we fire up cURL and send the request
+```
+curl -X 
