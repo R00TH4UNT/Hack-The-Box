@@ -17,3 +17,15 @@ So by clicking on the Debugger tab we can easily view all the js files. We find 
 ![Screenshot of Debugger tab](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-20-45.png)
 
 Now for obvious reasons we are going to take a look at the inviteapi file. If you have problems understanding the javascript code you can use [this site](www.jsnice.org) for deobfuscation.
+
+![Screenshot of JS file](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-26-51.png)
+
+By reading the code we can see that a POST request is being sent to the link /api/invite/how/to/generate. 
+So we try sending a POST request to the link using cURL (You can use any tool of your choice). Here is the syntax for cURL.
+
+```
+curl -X POST https://www.hackthebox.eu/api/invite/how/to/generate
+```
+We get a response. Here is a screenshot of it.
+
+![Screenshot of response](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/Invite%20Challenge/Screenshot_2020-06-25_21-37-19.png)
