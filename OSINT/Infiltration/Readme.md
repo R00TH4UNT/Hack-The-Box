@@ -23,4 +23,6 @@ You could confirm that it was the flag by zooming into the ID card of Evil Corp.
 
 ![ID](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Infiltration/Screenshot_2020-06-26_10-25-49.png)
 
-NOTE: Since this challenge was solved previouly I found out the solution pic in the Google Images Search results for Evil Corp LLC :wink:
+NOTE: Since this challenge was solved previously I found out the solution pic in the Google Images Search results for Evil Corp LLC :wink:
+
+![solution](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Infiltration/Screenshot_2020-06-26_10-29-01.png)
