@@ -6,6 +6,9 @@ This is a writeup for Hack The Box OSINT challenge [Easy Phish](https://www.hack
 
 It says that Customers of secure-startup.com have been receiving lots of phishing emails. So we can take a guess that this problem is about email spoofing method.
 Now if you Google about how domains prevent their emails from getting spoofed you would find three ways:
-* SPF
-* DKIM
-* DMARC
+* SPF (Sender Policy Framework)
+* DKIM (DomainKeys Identified Mail)
+* DMARC (Domain-based Message Authentication, Reporting and Conformance)
+You can visit [here](https://www.smartertools.com/blog/2019/04/09-understanding-spf-dkim-dmarc) to know more about how each of them work.
+
+
