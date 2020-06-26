@@ -1,6 +1,6 @@
 <head>
-<title>Hack-The-Box
-<meta name="google-site-verification" content="UmNqmpngPOtESJ3vy4nn1YGC3t4QrJaiRpEfOfuudrM" />
+  <title>Hack-The-Box</title>
+  <meta name="google-site-verification" content="UmNqmpngPOtESJ3vy4nn1YGC3t4QrJaiRpEfOfuudrM" />
 </head>
 <body>
 <h1>Hack-The-Box</h1>
