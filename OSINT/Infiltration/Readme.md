@@ -14,6 +14,7 @@ On the very first result I found that there was a string in the flag format, so 
 
 ![Brian Delany](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Infiltration/Screenshot_2020-06-26_10-14-58.png)
 
-Again it was a Base64 encoded string that translates into "There are people out there that will lie, steal and cheat to hide their own imperfections and to further their progression in life. We will not sit by whilst these practices are going on. The truth will be exposed!"
+Again it was a Base64 encoded string that translates into "There are people out there that will lie, steal and cheat to hide their own imperfections and to further their progression in life. We will not sit by whilst these practices are going on. The truth will be exposed!".
 Not much helpful..
+
 So I looked into the 2nd Google search result that was the Instagram profile of [Eryn Mcmahon](https://www.instagram.com/eryn_mcmahon12/)
