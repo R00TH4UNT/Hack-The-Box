@@ -14,4 +14,8 @@ Here are the files that you get:
 
 ![Files](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_20-59-20.png)
 
-Under the 
+Under the ftp-files section we get 2 docx files:
+* keys.docx
+* web-developer-needed.docx
+
+Needless to say the keys.docx file is password protected
