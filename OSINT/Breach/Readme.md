@@ -22,6 +22,21 @@ Needless to say the keys.docx file is password protected. So we look into the we
 
 ![Hiring notice](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_22-14-49.png)
 
-It is a recruitment notice that says that the company is looking for a web developer and also an email of the HR department of the company. Now doing a google search on "Super Secure Startup" I found out the following twitter handles regarding the companyand its employees:
+It is a recruitment notice that says that the company is looking for a web developer and also a contact email of the HR department of the company. Now doing a google search on "Super Secure Startup" I found out the following twitter handles regarding the companyand its employees:
 * [@SuperSecStartup](https://twitter.com/supersecstartup?lang=en)- A twitter handle of the company
-* [@BiankaPhelps](https://twitter.com/biankaphelps?lang=en)- A twitter handle of a HR proffessional of the company.
+* [@BiankaPhelps](https://twitter.com/biankaphelps?lang=en)- A twitter handle of a HR professional of the company.
+
+Running a search in the breach dump I got the credentials of Bianka Phelps.
+
+![Breach dump](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_22-27-09.png)
+
+I tried using "Love!July2018" as the password but it did not work. So I looked out the date of creation of the file.
+
+![DoC](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_20-55-47.png)
+
+The file was created on 26th March 2019. So instead of using "Love!July2018" I used "Love!March2019" and it worked.
+Inside the file was a Base64 encrypted string.
+
+![Keys.docx](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_22-35-07.png)
+
+Decoding it we get the flag.
