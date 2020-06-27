@@ -10,3 +10,8 @@ First I unzipped the Breach.zip file using 7zip command and using hackthebox as 
 ```
 7x x Breach.zip -p hackthebox
 ```
+Here are the files that you get:
+
+![Files](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_20-59-20.png)
+
+Under the 
