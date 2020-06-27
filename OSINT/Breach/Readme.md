@@ -18,4 +18,10 @@ Under the ftp-files section we get 2 docx files:
 * keys.docx
 * web-developer-needed.docx
 
-Needless to say the keys.docx file is password protected
+Needless to say the keys.docx file is password protected. So we look into the web-developer-needed.docx file.
+
+![Hiring notice](https://github.com/R00TH4UNT/Hack-The-Box/blob/master/OSINT/Breach/Screenshot_2020-06-27_22-14-49.png)
+
+It is a recruitment notice that says that the company is looking for a web developer and also an email of the HR department of the company. Now doing a google search on "Super Secure Startup" I found out the following twitter handles regarding the companyand its employees:
+* [@SuperSecStartup](https://twitter.com/supersecstartup?lang=en)- A twitter handle of the company
+* [@BiankaPhelps](https://twitter.com/biankaphelps?lang=en)- A twitter handle of a HR proffessional of the company.
