@@ -21,5 +21,4 @@ I googled up "Super secure startup" and it gave me two twitter accounts:
 * [@SuperSecStartup](https://twitter.com/supersecstartup?lang=en)
 * [@BiankaPhelps](https://twitter.com/biankaphelps?lang=en)
 
-
-
+Looking through the Super Secure Startup's posts I found another employee, [Josh Terranwald](https://twitter.com/JTerranwald).
