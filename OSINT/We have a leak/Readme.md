@@ -21,4 +21,11 @@ I googled up "Super secure startup" and it gave me two twitter accounts:
 * [@SuperSecStartup](https://twitter.com/supersecstartup?lang=en)
 * [@BiankaPhelps](https://twitter.com/biankaphelps?lang=en)
 
-Looking through the Super Secure Startup's posts I found another employee, [Josh Terranwald](https://twitter.com/JTerranwald).
+Looking through the Super Secure Startup's posts I found two other employees:
+* [Josh Terranwald](https://twitter.com/JTerranwald) who had joined on March 2019.
+
+![Twitter post](https://github.com/salty-nutella/Hack-The-Box/blob/master/OSINT/We%20have%20a%20leak/Screenshot_2020-06-30_08-24-08.png)
+
+* [Johanna Boyce](https://twitter.com/boyce_johanna) whose email address (j.boyce@supersecurestartup.com) was given in the reply to a [post](https://twitter.com/SuperSecStartup/status/1110299017127313413) by the Super Secure Startup.
+
+![Twitter post](https://github.com/salty-nutella/Hack-The-Box/blob/master/OSINT/We%20have%20a%20leak/Screenshot_2020-06-30_08-27-31.png)
